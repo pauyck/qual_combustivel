@@ -40,11 +40,11 @@
 			  <button class="btn btn-lg btn-primary btn-block"  name="Submit" value="Calcular" type="Submit">Calcular</button>
 			  
 			  <hr class="colorgraph"><br>
-			  
-			  <h3>
-			  	<% out.print(resultado);%>
-			  </h3>
-			  
+			  	<h3>
+			  		 
+			  	</h3>
+			  <hr class="colorgraph"><br>
+			  <button class="btn btn-lg btn-primary btn-block"  name="Submit" value="Voltar" type="reset">Voltar</button>
 		</form>			
 	</div>
 	</div>
@@ -52,7 +52,7 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
     
 </body>
 </html>
